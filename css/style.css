@@ -1,0 +1,101 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  background-color: rgb(145, 128, 128);
+}
+table {
+  text-align: center;
+  margin: 20px auto;
+  border-collapse: collapse;
+  display: table;
+  vertical-align: middle;
+  border: 4px solid black;
+  width: 30%;
+}
+tr {
+  display: table-row;
+  vertical-align: inherit;
+  border-color: inherit;
+}
+td {
+  border: 4px solid black;
+  height: 50px;
+  width: 80px;
+}
+caption {
+  font-size: 20px;
+  padding: 10px;
+}
+.td1 {
+  width: 31%;
+  background-color: white;
+}
+.td3 {
+  width: 31%;
+  background-color: white;
+}
+.td5 {
+  width: 31%;
+  height: 70px;
+  background-color: yellow;
+}
+.td7 {
+  width: 7%;
+  background-color: white;
+}
+.td8,
+.td15 {
+  width: 13%;
+  background-color: white;
+}
+.td9 {
+  width: 49%;
+  background-color: red;
+}
+.td12 {
+  width: 31%;
+  height: 90px;
+  background-color: yellow;
+}
+.td14 {
+  width: 7%;
+  background-color: white;
+}
+.td19,
+.td20 {
+  height: 90px;
+  background-color: white;
+}
+.td23 {
+  background-color: black;
+}
+.td24 {
+  width: 4%;
+  background-color: black;
+}
+.td25,
+.td32,
+.td37 {
+  width: 24.5%;
+  background-color: white;
+}
+.td26 {
+  width: 31%;
+  background-color: white;
+}
+.td29 {
+  width: 13%;
+  background-color: yellow;
+}
+.td33 {
+  width: 31%;
+  background-color: blue;
+}
+.td35 {
+  width: 7%;
+  background-color: red;
+}
+.td39 {
+  background-color: black;
+}
